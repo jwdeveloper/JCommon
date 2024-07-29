@@ -6,7 +6,7 @@
 
     <groupId>io.github.jwdeveloper.common</groupId>
     <artifactId>JCommon</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.3-Release</version>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
